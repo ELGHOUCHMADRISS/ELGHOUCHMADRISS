@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @ELGHOUCHMADRISS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Driss El-Ghouchma
 
-<!---
-ELGHOUCHMADRISS/ELGHOUCHMADRISS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 PhD Student in Computer Science  
+🔐 Researcher in Network Security & VANETs  
+
+## 👀 Interests
+- Vehicular Ad Hoc Networks (VANET)
+- Cybersecurity & Privacy
+- Machine Learning for Network Security
+
+## 🌱 Currently Learning
+- Advanced AI techniques in network security  
+- Secure routing protocols in VANETs  
+- Data analysis and model optimization  
+
+## 💞️ Collaboration
+- Research projects in VANET security  
+- AI applications in networking  
+- Academic collaborations and publications  
+
+## 📫 Contact
+- Email:drisselghouchma@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/drissel-ghouchma
